@@ -1,0 +1,1 @@
+console.log("Beshak ALLAH is great");
